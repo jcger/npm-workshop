@@ -20,14 +20,6 @@ Login back into npm:
 npm login
 ```
 
-Use these credentials:
-
-```txt
-Username: npm-workshop
-Password: ************
-Email: julian.gernun+npmworkshop@adevinta.com
-```
-
 Checkout that you are logged in as `npm-workshop` by executing
 
 ```sh
